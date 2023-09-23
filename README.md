@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Netflix Clone By Giri Krishna 🚀
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

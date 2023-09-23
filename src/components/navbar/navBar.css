@@ -7,9 +7,9 @@
     height: 30px;
     padding: 20px;
     display: flex;
-    justify-content: space-between;
-    background-color: #111;
+    transition: background-color 0.3s ease;
 }
+
 
 /* Netflix Logo */
 .logo {
@@ -25,7 +25,22 @@
     width: 30px;
 }
 
-/* Netflix Logo */
-/* Netflix Logo */
-/* Netflix Logo */
-/* Netflix Logo */
+.options{
+    margin-left: 100px;
+}
+
+p{
+    color: #fff;
+    text-shadow: 1.5px 1px 3px rgba(0, 0, 0, 1);
+    display: flex;
+    float: left;
+    margin-left: 15px;
+    transition: 0.1s;
+    cursor: pointer;
+}
+
+p:hover{
+    transform: scale(1.1);
+    margin-left: 20px;
+    margin-right: 2px
+}
